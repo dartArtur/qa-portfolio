@@ -13,7 +13,7 @@
 ## 💻 Проекты
 - 🔗 [Проект: тестирование веб-приложения Яндекс Маршруты](https://docs.google.com/spreadsheets/d/1XeEivcflbJFnHVV_AOvpv92OvqRM5szcRXwAoQSKRKQ/edit?usp=sharing)
 - 🔗 [Проект: API тестирование приложения Яндекс Прилавок (Postman)](https://docs.google.com/spreadsheets/d/1ThcTKLKSazpEpJR-ZP0xV-3-OMsLsJdCNdrRWxMh5Xc/edit?usp=sharing)
-- 🔗 [Проект: Тестирование веб-приложения, мобильного приложения и API тестирвоания прриложения Яндекс Самокат](https://docs.google.com/spreadsheets/d/1Xj6EOqxI42-4XcBBOPd5KzbrQyJyyDnIHSFk6r-n7gk/edit?usp=sharing)
+- 🔗 [Проект: Тестирование веб-приложения, мобильного приложения и API тестирование приложения Яндекс Самокат](https://docs.google.com/spreadsheets/d/1Xj6EOqxI42-4XcBBOPd5KzbrQyJyyDnIHSFk6r-n7gk/edit?usp=sharing)
 
 ## 📫 Контакты
 - Telegram: https://t.me/Arturrrrr
